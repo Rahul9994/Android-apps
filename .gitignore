@@ -1,0 +1,18 @@
+# Gradle / Android build output
+**/.gradle/
+**/build/
+**/.kotlin/
+**/captures/
+**/.externalNativeBuild/
+**/.cxx/
+
+# Machine-specific
+**/local.properties
+**/.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Secrets (never commit)
+*.jks
+*.keystore

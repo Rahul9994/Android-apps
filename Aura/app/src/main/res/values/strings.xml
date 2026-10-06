@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="accessibility_desc">Aura sees which app is open (only the app name, never what\'s on screen) so it can talk to you when you\'ve been scrolling too long, and send you home when you open an app you asked it to lock.</string>
+    <string name="channel_aura">Aura</string>
+</resources>

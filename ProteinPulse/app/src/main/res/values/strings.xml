@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Protein Pulse</string>
+    <string name="channel_report">Daily protein report</string>
+</resources>
